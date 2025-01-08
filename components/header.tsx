@@ -64,7 +64,7 @@ export const Header = () => {
         </div>
 
         <div className="ml-auto flex h-full items-center">
-          <Link className="mr-6 text-sm" href="#">
+          <Link className="mr-6 text-sm" href="https://docs.ledgerly.chat/">
             Documents
           </Link>
           <Button href="#">Start App</Button>
