@@ -57,10 +57,7 @@ export const Header = () => {
               )}
             >
               <li>
-                <Link href="#">Twitter</Link>
-              </li>
-              <li>
-                <Link href="#">Telegram</Link>
+                <Link href="https://x.com/ChatLedgerly">Twitter</Link>
               </li>
             </ul>
           </nav>
