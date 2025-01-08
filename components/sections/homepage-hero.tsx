@@ -11,7 +11,7 @@ export const HomepageHero = () => (
       variant="secondary"
       size="small"
     >
-      <span>Ledgerly 2025 Release – Alpha 1.0.1</span>{" "}
+      <span>Contract Address: soon >{" "}
       <Highlight>→</Highlight>
     </Button>
     <HeroTitle className="translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:200ms]">
