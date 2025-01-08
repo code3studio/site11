@@ -89,7 +89,7 @@ export const HeroImage = () => {
             inView && "[&_path]:animate-sketch-lines"
           )}
           width="100%"
-          viewBox="0 0 1499 778"
+          viewBox="0 0 854 542"
           fill="none"
         >
           <path pathLength="1" d="M1500 72L220 72"></path>
