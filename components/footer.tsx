@@ -10,15 +10,13 @@ const footerLinks = [
   {
     title: "Socials",
     links: [
-      { title: "Twitter", href: "#" },
-      { title: "Telegram", href: "#" },
+      { title: "Twitter", href: "https://x.com/ChatLedgerly" },
     ],
   },
   {
     title: "Docs",
     links: [
-      { title: "Github", href: "#" },
-      { title: "Docs", href: "#" },
+      { title: "Docs", href: "https://docs.ledgerly.chat/" },
     ],
   },
 ];
