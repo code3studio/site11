@@ -11,7 +11,7 @@ export const HomepageHero = () => (
       variant="secondary"
       size="small"
     >
-      <span>$LEDGERLY – soon </span>{" "}
+      <span>ca: 93c82aMXkgGCwsmiJjLzfdNoUJqeq6Eeqt7jk4YWpump </span>{" "}
       <Highlight>→</Highlight>
     </Button>
     <HeroTitle className="translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:200ms]">
