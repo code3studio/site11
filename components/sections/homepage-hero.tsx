@@ -25,7 +25,7 @@ export const HomepageHero = () => (
     </HeroSubtitle>
     <Button
       className="translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:600ms]"
-      href="/"
+      href="/https://t.me/LEDGERLYAI_BOT"
       variant="primary"
       size="large"
     >
