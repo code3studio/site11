@@ -39,7 +39,7 @@ export const Clients = () => (
       </div>
       <div className="flex flex-col items-center">
         <img src="/aws.png" alt="Python Logo" className="h-12 w-12" />
-        <span className="mt-2 text-white">Amazon Web Services</span>
+        <span className="mt-2 text-white">AWS</span>
       </div>
     </div>
     
