@@ -67,7 +67,7 @@ export const Header = () => {
           <Link className="mr-6 text-sm" href="https://docs.ledgerly.chat/">
             Documents
           </Link>
-          <Button href="#">Start App</Button>
+          <Button href="https://t.me/LEDGERLYAI_BOT">Start App</Button>
           
         </div>
 
